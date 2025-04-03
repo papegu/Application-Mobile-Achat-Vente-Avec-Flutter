@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748720614646",
+    "project_id": "projetdiay",
+    "storage_bucket": "projetdiay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748720614646:android:887cbca2ffc7d608bbd0d7",
+        "android_client_info": {
+          "package_name": "sn.uadb.diayalma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6O6z9ncpeKcrG69XCluEa-QLU5binz9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
